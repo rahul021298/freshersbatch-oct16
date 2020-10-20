@@ -1,0 +1,1 @@
+document.write("<h1>This contains footer.</h1>");
