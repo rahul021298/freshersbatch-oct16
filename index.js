@@ -1,1 +1,1 @@
-<h1>Hii RA!</h1>
+document.write("<h1>Hii RA!</h1>");

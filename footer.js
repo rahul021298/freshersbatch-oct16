@@ -1,1 +1,1 @@
-<h1>This contains footer.</h1>
+document.write("<h1>This contains footer.</h1>");
